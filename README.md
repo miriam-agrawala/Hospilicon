@@ -12,4 +12,4 @@ The other is the "Trolley Problem": would you actively take actions to sacrifice
 Gameplay:
 Textadventure. Each level shows the scenery in ASCII graphics. Objects that the player can interact with are marked with different numbers, by pressing the equivalent numbers on the keyboard, the player selects the object he wants to interact with. The atmosphere in the game will be emphasized by GEMA-free music.
 
-For information on a first modular structure of the game, please refer to modularStructure.pdf
+For information on a first modular structure of the game, please refer to Hospilicon_modularStructure.pdf.
